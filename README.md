@@ -1,3 +1,3 @@
  Heading
 
-This is a parabraph.
+This is a paragraph.
